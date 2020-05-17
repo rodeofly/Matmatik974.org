@@ -8,13 +8,12 @@ Utiliser [l'éditeur GitHub](https://github.com/rodeofly/Matmatik974.org/edit/ma
 
 $$ a-2=x \dfrac{5}{3} $$
 
-
-1. [C4.Repères]()
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [C4.Repères]()
 
 - [Grandeurs et mesures](https://rodeofly.github.io/matmatik974.org/Grandeurs%20et%20Mesures/Aires/)
 
+<hr>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
 Syntax highlighted code block
 
