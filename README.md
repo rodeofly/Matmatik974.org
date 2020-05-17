@@ -1,3 +1,17 @@
+<head>
+       <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+       <script type="text/x-mathjax-config">
+         MathJax.Hub.Config({
+           tex2jax: {
+             inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+             processEscapes: true
+           }
+         });
+       </script>
+       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</head>
+
+
 # Bienvenue sur Matmatik974.org
 
 Utiliser [l'éditeur GitHub](https://github.com/rodeofly/Matmatik974.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files
@@ -43,3 +57,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <script type="text/javascript" source="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.5/es5/sre/mathmaps/fr.min.js"></script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
