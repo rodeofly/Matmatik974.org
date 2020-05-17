@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 $$a-2=x \dfrac{5}{3}$$
 
-<script type="text/javascript">  https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.5/es5/sre/mathmaps/fr.min.js</script>
+<script type="text/javascript" source="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.5/es5/sre/mathmaps/fr.min.js"></script>
