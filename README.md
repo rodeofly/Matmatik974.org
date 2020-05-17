@@ -2,11 +2,11 @@
 
 Utiliser [l'éditeur GitHub](https://github.com/rodeofly/Matmatik974.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files
 
-##Plans d'attaques
+## Plans d'attaques
 
-###Nombres & Calculs 
+### Nombres & Calculs 
 
-$$a-2=x \dfrac{5}{3}$$
+$$ a-2=x \dfrac{5}{3} $$
 
 
 1. [C4.Repères]
