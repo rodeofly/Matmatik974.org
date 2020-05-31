@@ -1,3 +1,7 @@
+---
+layout: page
+title : Plan de travail - Aires
+---
 # Plan de travail - Aires
 Niveau 5 ème
 Semaine du 20 avril au 24 avril 2020
