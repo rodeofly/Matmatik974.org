@@ -21,9 +21,11 @@
 title: Plan Maths 974
 email: Florian.Tobe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un site pour bosser les maths Cycle 4 en autonomie avec des plans de travail et une trace écrite minimale pour retenir ce qu'il y a de bons à savoir.
-baseurl: "https://github.com/rodeofly/matmatik974.org.git" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Un site pour bosser les maths Cycle 4 en autonomie 
+  avec des plans de travail et une trace écrite 
+  minimale pour retenir ce qu'il y a de bons à savoir.
+baseurl: "/matmatik974.org" # the subpath of your site, e.g. /blog
+url: "rodeofly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: florian.tobe
 github_username:  rodeofly
 
