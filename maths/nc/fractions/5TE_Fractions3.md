@@ -13,7 +13,7 @@ Pour additionner (ou soustraire) des fractions qui ont le même dénominateur,
 </div>
 
 
-<i class="exemple"/> Exemples : 
+<i class="icone exemple"/> Exemples : 
 - Avec le même dénominateur :   
 \\(\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}\\)
 

@@ -3,80 +3,43 @@
 @import "main";
 
 $fa-font-path:        "../webfonts";
-
-
 @import "./fontawesome/fontawesome.scss";
 @import "./fontawesome/solid.scss";
 @import "./fontawesome/brands.scss";
+@mixin icone($icon) {
+  @include fa-icon;
+  @extend .fas;
+  @extend .fa-#{$icon};
+}
+  
 
 body {
   font-family: "Computer Modern Sans", sans-serif;
 }
 
-.cours {
-  @extend %fa-icon;
-  @extend .fas;
-
-  &:before {
-    content: fa-content($fa-var-graduation-cap);
-  }
-
+div.cours {
+  @include icone(graduation-cap);
   background-color : lightsalmon;
-  border : solid red 2px;
+
 }
 
-.conseil {
-  @extend %fa-icon;
-  @extend .fas;
-  @extend .fa-fw;
-  &:before {
-    content: fa-content($fa-var-lightbulb);
+  .definition {
+    @include icone(book);
   }
-  
-  padding : 2px;
-  background-color : yellow;
-  border : solid #CCCC00		 2px;
-  border-radius : 5px;
-}
 
-.lien {
-  @extend %fa-icon;
-  @extend .fas;
-  @extend .fa-fw;
-  &:before {
-    content: fa-content($fa-var-link);
+  .conseil {
+    @include icone(lightbulb);
   }
-  
-  padding : 2px;
-  background-color : DeepSkyBlue;
-  border : solid blue 2px;
-  border-radius : 5px;
-}
 
-.exemple {
-  @extend %fa-icon;
-  @extend .fas;
-  @extend .fa-fw;
-  &:before {
-    content: fa-content($fa-var-edit);
+  .lien {
+    @include icone(link);
   }
-  
-  padding : 2px;
-  background-color : limegreen;
-  border : solid darkgreen		 2px;
-  border-radius : 5px;
-}
 
-.attention {
-  @extend %fa-icon;
-  @extend .fas;
-  @extend .fa-fw;
-  &:before {
-    content: fa-content($fa-var-exclamation-circle);
+  .exemple {
+    @include icone(edit);
   }
-  
-  padding : 2px;
-  background-color : orange;
-  border : solid red 2px;
-  border-radius : 5px;
-}
+
+  .attention {
+    @include icone(exclamation-circle);
+  }
+
