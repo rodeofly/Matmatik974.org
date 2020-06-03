@@ -1,7 +1,23 @@
 ---
 layout: page
 title : Fractions 3 - Cycle 4
+sommaire : true
+toc : true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+toc_sticky : true
 ---
+
+{% if page.sommaire %}
+
+<div id="inline_toc" markdown="1" class="sidebar">
+
+* Sommaire
+{:toc}
+
+</div>
+{% endif %}
+
 
 ## I. Additionner et soustraire des fractions
 

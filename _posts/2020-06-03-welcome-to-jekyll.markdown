@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Bienvenue sur Plan Maths 974!"
-date:   2020-05-31 16:47:47 +0400
+layout: single
+title:  "Welcome to Jekyll!"
+date:   2020-06-03 15:46:50 +0400
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
