@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title : C’est quoi une aire ?
 ---
 # C’est quoi une aire ?

@@ -1,6 +1,12 @@
 ---
-layout: page
+layout: single
 title : Calcul Littéral - Cycle 4
+toc : true
+toc_label: "Calcul littéral- 5ème"
+toc_icon: "cog"
+toc_sticky : true
+permalink : /5.calcullitteral/
+mathjax: true
 ---
 
 ## I. Ecrire une expression littérale

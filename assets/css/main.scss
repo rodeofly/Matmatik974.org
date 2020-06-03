@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+$fa-font-path:        "../webfonts";
+@import "./fontawesome/fontawesome.scss";
+@import "./fontawesome/solid.scss";
+@import "./fontawesome/brands.scss";
+@mixin icone($icon) {
+  @include fa-icon;
+  @extend .fas;
+  @extend .fa-#{$icon};
+}
+  
+
+
+div.cours {
+  padding : 5px;
+  margin-bottom : 5px;
+  @include icone(graduation-cap);
+  background-color : lightsalmon;
+  border-radius : 5px;
+}
+
+  .definition {
+    @include icone(book);
+  }
+
+  .conseil {
+    @include icone(lightbulb);
+  }
+
+  .lien {
+    @include icone(link);
+  }
+
+  .exemple {
+    @include icone(edit);
+  }
+
+  .attention {
+    @include icone(exclamation-circle);
+  }

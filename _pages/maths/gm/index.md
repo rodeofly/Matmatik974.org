@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title : Plan de travail - Aires
 ---
 # Plan de travail - Aires
