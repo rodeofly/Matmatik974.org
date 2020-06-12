@@ -66,7 +66,7 @@ $$ \dfrac{15}{7} \times \dfrac{21}{35}= \dfrac{15 \times 21}{7 \times 35}= \dfra
 
 <i class="exemple"/> Exemples :
 - Prendre deux cinquièmes d’une somme de cent euros, c’est :
-$ \dfrac{2}{5} \times 100 € = \dfrac{200}{5}€=40 €$
+$\dfrac{2}{5} \times 100 € = \dfrac{200}{5}€=40 €$
 - Prendre un quart des deux tiers d’un gâteau, c’est : 
 $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
@@ -75,5 +75,5 @@ $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDIzODg0NF19
+eyJoaXN0b3J5IjpbMTM2Nzc2MTM5MF19
 -->
