@@ -23,6 +23,8 @@ Pour additionner (ou soustraire) des fractions qui ont le même dénominateur,
 - Avec le même dénominateur :   
 $$\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}$$ 
 
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5Cdfrac%7B13%7D%7B6%7D-%5Cdfrac%7B8%7D%7B6%7D%3D%5Cdfrac%7B1%7D%7B3%7D-%5Cdfrac%7B8%7D%7B6%7D%3D%5Cdfrac%7B5%7D%7B6%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}" width="165" height="43" />
+
 - Avec des dénominateurs multiples l'un de l'autre :   
 $$ \dfrac{1}{3}+\dfrac{7}{12}=\dfrac{1 \times 4}{3 \times 4}+\dfrac{7}{12}=\dfrac{4}{12}+\dfrac{7}{12}=\dfrac{11}{12}$$
 
@@ -63,13 +65,15 @@ $$ \dfrac{15}{7} \times \dfrac{21}{35}= \dfrac{15 \times 21}{7 \times 35}= \dfra
 </div>
 
 <i class="exemple"/> Exemples :
-- Prendre deux cinquièmes d’une somme de cent euros, c’est :	$$ \dfrac{2}{5} \times 100 € = \dfrac{200}{5}€=40 €$$
-- Prendre un quart des deux tiers d’un gâteau, c’est : $$ \dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$$ du gâteau !
+- Prendre deux cinquièmes d’une somme de cent euros, c’est :
+$ \dfrac{2}{5} \times 100 € = \dfrac{200}{5}€=40 €$
+- Prendre un quart des deux tiers d’un gâteau, c’est : 
+$\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <i class="lien"/> En cas de difficultés n’hésites pas à visionner cette [vidéo](https://youtu.be/OUDicIla23I) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTY5MDY3OV19
+eyJoaXN0b3J5IjpbMTQ4MDIzODg0NF19
 -->
