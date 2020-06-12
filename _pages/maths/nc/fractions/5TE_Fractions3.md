@@ -35,12 +35,11 @@ Pour multiplier 2 fractions, on multiplie les numérateurs entre eux et les dén
 
 $$ \dfrac{a}{b} \times \dfrac{c}{d} =\dfrac{a \times c}{b \times d}$$
 </div>
-<i class="exemple"/>Exemple :  $\dfrac{3}{4} \times \dfrac{11}{7}=\dfrac{3 \times 11}{4 \times 7}=\dfrac{33}{28}$
 
+<i class="exemple"/>Exemple :  $\dfrac{3}{4} \times \dfrac{11}{7}=\dfrac{3 \times 11}{4 \times 7}=\dfrac{33}{28}$
 				
 <i class="attention"/> Attention à ne pas confondre : $$ 3 \times \dfrac{5}{7}=\dfrac{3}{1} \times \dfrac{5}{7}=\dfrac{15}{7}$$ et $$\dfrac{3}{7} \times \dfrac{5}{7}=\dfrac{3 \times 5}{7 \times 7}=\dfrac{15}{49}$$
 
-	
 <i class="conseil"/>  Lorsque c’est possible, on simplifie avant d’effectuer les produits :
 $$ \dfrac{15}{7} \times \dfrac{21}{35}= \dfrac{15 \times 21}{7 \times 35}= \dfrac{3 \times 5 \times 3 \times }{7 \times 7 \times 5 \times 7} = \dfrac{3 \times 3}{7}=\dfrac{9}{7}$$
 
@@ -64,5 +63,5 @@ $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMjY2MTksMTM2Nzc2MTM5MF19
+eyJoaXN0b3J5IjpbLTE4MTAyNzk3MDcsMTM2Nzc2MTM5MF19
 -->
