@@ -23,8 +23,6 @@ Pour additionner (ou soustraire) des fractions qui ont le même dénominateur,
 - Avec le même dénominateur :   
 $$\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}$$
 
-<img src="https://latex.codecogs.com/svg.latex?\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}" width="250" />
-
 - Avec des dénominateurs multiples l'un de l'autre :   
 $$ \dfrac{1}{3}+\dfrac{7}{12}=\dfrac{1 \times 4}{3 \times 4}+\dfrac{7}{12}=\dfrac{4}{12}+\dfrac{7}{12}=\dfrac{11}{12}$$
 
@@ -75,5 +73,5 @@ $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc3ODA0NTQsMTM2Nzc2MTM5MF19
+eyJoaXN0b3J5IjpbMTY1ODk1NzI2NSwxMzY3NzYxMzkwXX0=
 -->
