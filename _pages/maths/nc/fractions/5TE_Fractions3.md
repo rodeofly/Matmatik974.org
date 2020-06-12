@@ -70,3 +70,6 @@ $$ \dfrac{15}{7} \times \dfrac{21}{35}= \dfrac{15 \times 21}{7 \times 35}= \dfra
 <i class="lien"/> En cas de difficultés n’hésites pas à visionner cette [vidéo](https://youtu.be/OUDicIla23I) 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3OTY5MDY3OV19
+-->
