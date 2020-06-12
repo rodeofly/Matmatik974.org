@@ -31,12 +31,11 @@ $$ \dfrac{5}{2}+\dfrac{1}{7}=\dfrac{5 \times 7}{2 \times 7}+\dfrac{1 \times 2}{7
 
 ## II. Multiplier des fractions
 <div class="cours" markdown="1">
-Pour multiplier 2 fractions, on multiplie les numérateurs entre eux et les dénominateurs entre eux : 
+Pour multiplier 2 fractions, on multiplie les numérateurs entre eux et les dénominateurs entre eux :
+
 $$ \dfrac{a}{b} \times \dfrac{c}{d} =\dfrac{a \times c}{b \times d}$$
 </div>
-
-
-<i class="exemple"/> Exemple : $$ \dfrac{3}{4} \times \dfrac{11}{7}=\dfrac{3 \times 11}{4 \times 7}=\dfrac{33}{28}$$
+<i class="exemple"/>Exemple :  $\dfrac{3}{4} \times \dfrac{11}{7}=\dfrac{3 \times 11}{4 \times 7}=\dfrac{33}{28}$
 
 				
 <i class="attention"/> Attention à ne pas confondre : $$ 3 \times \dfrac{5}{7}=\dfrac{3}{1} \times \dfrac{5}{7}=\dfrac{15}{7}$$ et $$\dfrac{3}{7} \times \dfrac{5}{7}=\dfrac{3 \times 5}{7 \times 7}=\dfrac{15}{49}$$
@@ -65,5 +64,5 @@ $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTUwOTY0NywxMzY3NzYxMzkwXX0=
+eyJoaXN0b3J5IjpbMzIyMjY2MTksMTM2Nzc2MTM5MF19
 -->
