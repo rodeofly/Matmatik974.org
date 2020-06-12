@@ -11,6 +11,7 @@ author_profile: true
 - [Calcul littéral 5ème](./5.calcullitteral/)
 </details>
 
+$a \times b$ df
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzMTk5MzddfQ==
+eyJoaXN0b3J5IjpbMjEzODc3MTE3OF19
 -->
