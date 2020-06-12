@@ -16,30 +16,22 @@ mathjax: true
 Pour additionner (ou soustraire) des fractions qui ont le même dénominateur,
 - on additionne (ou soustrait) les numérateurs,
 - on garde le dénominateur commun.   
-</div>
-
+</div>    
 
 <i class="icone exemple"/> Exemples : 
 - Avec le même dénominateur :   
 $$\dfrac{13}{6}-\dfrac{8}{6}=\dfrac{1}{3}-\dfrac{8}{6}=\dfrac{5}{6}$$
-
 - Avec des dénominateurs multiples l'un de l'autre :   
 $$ \dfrac{1}{3}+\dfrac{7}{12}=\dfrac{1 \times 4}{3 \times 4}+\dfrac{7}{12}=\dfrac{4}{12}+\dfrac{7}{12}=\dfrac{11}{12}$$
-
 - Avec des dénominateurs quelconques :   
 $$ \dfrac{5}{2}+\dfrac{1}{7}=\dfrac{5 \times 7}{2 \times 7}+\dfrac{1 \times 2}{7 \times 2}=\dfrac{35}{14}+\dfrac{2}{14}=\dfrac{37}{14}$$
 
-
-<i class="conseil"/> Simplifier le résultat quand cela est possible !   
-
+<i class="conseil"/> Simplifier le résultat quand cela est possible !
 <i class="lien"/> En cas de difficultés n’hésites pas à visionner cette [vidéo](https://www.youtube.com/watch?v=lGShZVQlXMQ)
 
-
 ## II. Multiplier des fractions
-
 <div class="cours" markdown="1">
-Pour multiplier 2 fractions, on multiplie les numérateurs entre eux et les dénominateurs entre eux :   
-
+Pour multiplier 2 fractions, on multiplie les numérateurs entre eux et les dénominateurs entre eux : 
 $$ \dfrac{a}{b} \times \dfrac{c}{d} =\dfrac{a \times c}{b \times d}$$
 </div>
 
@@ -73,5 +65,5 @@ $\dfrac{1}{4} \times \dfrac{2}{3}=\dfrac{2}{12}=\dfrac{1}{6}$ du gâteau !
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODk1NzI2NSwxMzY3NzYxMzkwXX0=
+eyJoaXN0b3J5IjpbLTUwOTUwOTY0NywxMzY3NzYxMzkwXX0=
 -->
