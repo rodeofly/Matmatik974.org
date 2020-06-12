@@ -3,7 +3,6 @@ layout: home
 author_profile: true
 ---
 
-
 <details markdown='1'>
   <summary>Nombres & Calculs</summary>
 
@@ -12,5 +11,5 @@ author_profile: true
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzMTk5MzddfQ==
+eyJoaXN0b3J5IjpbMjA1NTgzOTA1N119
 -->
